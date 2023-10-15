@@ -1,0 +1,32 @@
+[remap]
+
+importer="scene"
+importer_version=1
+type="PackedScene"
+uid="uid://dr5nbqhfkr01o"
+path="res://.godot/imported/Io_1_3643 (1).glb-4d2dccacee4d6fd1895b132a7a1c0b4e.scn"
+
+[deps]
+
+source_file="res://Io_1_3643 (1).glb"
+dest_files=["res://.godot/imported/Io_1_3643 (1).glb-4d2dccacee4d6fd1895b132a7a1c0b4e.scn"]
+
+[params]
+
+nodes/root_type="Node3D"
+nodes/root_name="Scene Root"
+nodes/apply_root_scale=true
+nodes/root_scale=1.0
+meshes/ensure_tangents=true
+meshes/generate_lods=true
+meshes/create_shadow_meshes=true
+meshes/light_baking=0
+meshes/lightmap_texel_size=0.1
+skins/use_named_skins=true
+animation/import=true
+animation/fps=15
+animation/trimming=false
+animation/remove_immutable_tracks=true
+import_script/path=""
+_subresources={}
+gltf/embedded_image_handling=1
